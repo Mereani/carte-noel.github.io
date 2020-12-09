@@ -93,3 +93,16 @@ window.onload = function() {
         Snowflake.init(document.getElementById('snow'));
     }, 500);
   }
+
+//   POPUP
+
+
+  $(document).ready(function() {
+	$('.click1').click(function() {
+	   $('.overlay').fadeIn(300);
+	});
+ 
+	$('.close').click(function() {
+	   $('.overlay').fadeOut(300);
+	});
+ });
