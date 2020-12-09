@@ -1,2 +1,2 @@
 Carte de Noël
-/// REPLACER LE POPUP ET LES FLOCONS ///
+/// Mettre à jour le popup ///
